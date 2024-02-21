@@ -1,0 +1,10 @@
+<div class="content">
+  <h1>404 Page not found</h1>
+</div>
+
+<style>
+  .content {
+    display: flex;
+    justify-content: center;
+  }
+</style>
